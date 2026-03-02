@@ -21,8 +21,6 @@ Detection → Analysis → Prioritization → Remediation → Verification
 - Vulnerability Assessment (Nessus, Qualys VMDR)
 - CVSS v3 Risk Scoring & Interpretation
 - Manual Exploit Validation (Metasploit)
-- Linux Service Enumeration
-- Remediation Planning & Patch Strategy
 - NIST Cybersecurity Framework (CSF) Mapping
 - Risk-Based Vulnerability Prioritization
 - Technical Security Reporting
