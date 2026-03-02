@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nikhil Kumar  
+# 👋 Hi, I'm Nikhil Kumar Nimma
 
-🔐 Aspiring Vulnerability Management Analyst | Security+ Certified  
+🔐 Aspiring Vulnerability Management Analyst | Security+ & ISC2 CC Certified  
 📍 India  
 
 ---
