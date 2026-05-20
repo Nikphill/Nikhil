@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil Kumar Nimma
 
-🔐 Aspiring Vulnerability Management Analyst | Security+ & ISC2 CC Certified  
+🔐 Vulnerability Management Analyst | Security+ & ISC2 CC Certified  
 📍 India  
 
 ---
@@ -68,17 +68,6 @@ Experience mapping technical findings to:
 - NIST Cybersecurity Framework (CSF)
 - CVSS v3 Scoring Model
 - Risk-Based Remediation Prioritization
-
----
-
-## 📈 Career Objective
-
-Seeking entry-level roles in:
-
-- Vulnerability Management
-- Cyber Defense
-  
-Focused on continuous learning and building enterprise-ready security skills.
 
 ---
 
